@@ -1,0 +1,35 @@
+PORTFÓLIO DE MARIANA ARRUDA OLIVEIRA VALERIO
+==============================================
+
+ARQUIVOS
+- index.html: conteúdo e estrutura da página.
+- style.css: cores, layout, responsividade e animações.
+- script.js: interações do menu, tema, texto animado e botão de topo.
+
+COMO ABRIR
+1. Extraia o arquivo ZIP para uma pasta.
+2. Abra a pasta no Visual Studio Code.
+3. Abra o arquivo index.html no navegador. A extensão Live Server do VS Code
+   também pode ser usada, mas não é obrigatória.
+4. Para alterar textos, edite o index.html.
+5. Para alterar cores, edite as variáveis no início do style.css.
+6. Para alterar animações e interações, edite o script.js.
+
+PERSONALIZAÇÃO E DADOS
+- O portfólio usa o nome, e-mail, GitHub, WhatsApp, descrição e nomes de projetos
+  informados pela autora.
+- LinkedIn e Instagram foram omitidos porque não foram informados.
+- Os links específicos dos repositórios dos projetos não foram inventados.
+- O botão de currículo foi omitido porque a autora informou que ainda não tem CV.
+- O link do WhatsApp foi montado com o código do Brasil (55) e o número informado.
+  Confira se o número está correto e se possui WhatsApp antes de publicar.
+
+OBSERVAÇÕES
+- Google Fonts e Bootstrap Icons são carregados pela internet por meio de CDN.
+- O projeto usa HTML5, CSS3 e JavaScript puro, sem frameworks.
+- Não há formulário de contato nem dados pessoais além dos fornecidos.
+
+LINKS DOS PROJETOS
+- Robo-Maker (site publicado): https://mariana-sesc.github.io/projeto-robomaker/
+- Robo-Maker (código): https://github.com/mariana-sesc/projeto-robomaker
+- Compasso Musical (GitHub): https://github.com/mariana-sesc/compasso-musical
